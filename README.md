@@ -54,7 +54,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/EpikFlux/EpikFlux/output/snake.svg" alt="Snake animation" />
-
-###
