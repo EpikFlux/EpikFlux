@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pranesh, and I'm an Electronics and Communication student at the Chennai Institute of Technology in Chennai, India. I have a deep passion for cybersecurity and ethical hacking, and I am keen on exploring and mastering the intricacies of this ever-evolving field.</h2>
+<h2 align="left">Hi 👋! My name is Pranesh, and I'm an Electronics and Communication student at the Chennai Institute of Technology in Chennai, India. I have a passion for cybersecurity and ethical hacking, and I am keen on exploring and mastering the intricacies of this ever-evolving field.</h2>
 
 ###
 
