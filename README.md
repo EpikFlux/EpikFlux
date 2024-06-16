@@ -27,7 +27,7 @@
 ## 🤝 connect with me
 <a href="https://twitter.com/coffeefanboi">
 <img src="https://user-images.githubusercontent.com/68557696/149621771-ccfdd725-d194-42d6-9668-f73d2043b6c4.png" width="35px">
-</a> @martian75007<br>
+</a> @coffeefanboi<br>
 <a href="https://discordapp.com/users/672393874760663060">
 <img src="https://user-images.githubusercontent.com/68557696/149622003-e6fa233e-125b-4a77-a26d-1a27b053a3c2.png" width="35px">
-</a> Martian#8503<br>
+</a> gigachadyes<br>
