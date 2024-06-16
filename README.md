@@ -1,56 +1,33 @@
-<h2 align="left">Hi 👋! My name is Pranesh, and I'm an Electronics and Communication student at the Chennai Institute of Technology in Chennai, India. I have a passion for cybersecurity and ethical hacking, and I am keen on exploring and mastering the intricacies of this ever-evolving field.</h2>
+### Hi there 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/coffeefanboi?label=Follow)](https://twitter.com/intent/follow?screen_name=coffeefanboi)
+![GitHub followers](https://img.shields.io/github/followers/EpikFlux?label=Follow&style=social)
 
-###
+## 👦 about me
+- 🏫 college fresher, electronics and communication engineering dept
+- ⚛️ into physics and mathematics
+- ⚡ interested in making electronics projects
+- 👀 looking for an internship
+- 🪟 i use windows and kali linux(sometimes)
+- ⌨️ fun fact: i can type decently fast (80+ wpm) and an ethical hacker
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EpikFlux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EpikFlux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🛠️ what am doing right now
+- 📚 dealing with college
+- </> learning new programming languages (c++, javascript, java)
+- 💪 working on myself (fitness freak)
+- 🤝 building connections
 
-###
+## 👨‍💻 technologies I use
+<img src="https://user-images.githubusercontent.com/68557696/149619691-6ae25701-986e-4e7d-907b-8f4a5940765f.png" width="50px"></img>
+<img src="https://user-images.githubusercontent.com/68557696/149619883-cfd6d773-0f9f-41e3-9c71-0ddd96bec364.png" width="50px"></img>
+<img src="https://user-images.githubusercontent.com/68557696/149619832-387a1dc8-2e21-4ef6-aa10-77638e3fce2c.png" width="50px"></img>
+<img src="https://user-images.githubusercontent.com/68557696/149619848-f333a745-c932-4dae-9915-a7e7d38a8f47.png" width="50px"></img>
+<img src="https://user-images.githubusercontent.com/68557696/149619902-6c39bd93-9494-44a4-91f9-e9b6d2139899.png" width="50px"></img>
+<br>
 
-<img align="right" height="150" src="https://media1.tenor.com/m/R7UKJ2ZgktAAAAAC/peach-peachdance.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/rpranesh7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/praneshyes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/672393874760663060" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="praanesh98@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://x.com/coffeefanboi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
+## 🤝 connect with me
+<a href="https://twitter.com/coffeefanboi">
+<img src="https://user-images.githubusercontent.com/68557696/149621771-ccfdd725-d194-42d6-9668-f73d2043b6c4.png" width="35px">
+</a> @martian75007<br>
+<a href="https://discordapp.com/users/672393874760663060">
+<img src="https://user-images.githubusercontent.com/68557696/149622003-e6fa233e-125b-4a77-a26d-1a27b053a3c2.png" width="35px">
+</a> Martian#8503<br>
